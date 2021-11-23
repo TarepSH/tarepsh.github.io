@@ -1,0 +1,19 @@
+<section>
+    <hr>
+    <h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
+    <div class="short-about">
+      {% if site.sidebar-avatar %}
+      <div class="col-lg-2 col-md-3 col-sm-4 col-xs-5">
+        <img src="{{site.sidebar-avatar}}" />
+      </div>
+      {% endif %}
+      {% if site.sidebar-about-description %}
+      <div class="col-lg-10 col-md-9 col-sm-8 col-xs-7">
+        <p>{{site.sidebar-about-description}}
+             <br>
+            {% include sns-links.html %}
+        </p>
+      {% endif %}
+      </div>
+    </div>
+  </section>
