@@ -7,8 +7,9 @@ header-img: "img/in-post/20170825_184636-min-scaled.jpg"
 lang: en
 tags:
   - Robotics
+  - Tech
 ---
-What is WRO Open Category? what is WRO?
+## What is WRO Open Category? what is WRO?
 
 The World Robot Olympiad (WRO) is a global robotics competition for young people. The World Robot Olympiad competition uses Lego Mindstorms manufactured by LEGO Education. First held in 2004 in Singapore, it now attracts more than 26,000 teams from more than 65 countries.
 
@@ -20,6 +21,7 @@ We want to stimulate our vision for Syria in 2030 to be a smart country that use
 
 And we chose is the best place to start is Lattakia City in 2030 because of the rishi history and great geographic location that have a sea, mountains, and living city.
 
-https://youtu.be/p3rBSB9RmV4
+![](https://www.youtube.com/watch?v=p3rBSB9RmV4)
 
-https://www.slideshare.net/tarepsh/wro-costa-rica-2017-latakia-2030-syria-report
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7c8YY6xVouGbqX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/wro-costa-rica-2017-latakia-2030-syria-report" title="WRO Costa Rica 2017 – Latakia 2030 - Syria - Report " target="_blank">WRO Costa Rica 2017 – Latakia 2030 - Syria - Report </a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>

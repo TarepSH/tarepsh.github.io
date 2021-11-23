@@ -7,6 +7,7 @@ header-img: "img/in-post/lj2-scaled.jpg"
 lang: en
 tags:
   - Startups
+  - Tech
 ---
 
 
@@ -22,4 +23,4 @@ This project is done with great team:
 
 [Malaz Tamim](https://www.linkedin.com/in/malaztamim/)
 
-https://www.slideshare.net/tarepsh/aub-ai-for-accessibility-hackathon-mltk
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JSXTDBH2ttHmks" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/aub-ai-for-accessibility-hackathon-mltk" title="AUB AI for Accessibility Hackathon - MLTK" target="_blank">AUB AI for Accessibility Hackathon - MLTK</a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>

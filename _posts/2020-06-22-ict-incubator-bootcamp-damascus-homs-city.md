@@ -6,7 +6,7 @@ author:     "TarepSH"
 header-img: "img/in-post/IMG_1194-1-scaled.jpg"
 lang: en
 tags:
-  - Startups
+  - Entrepreneurship 
 ---
 
 We have launched an ICT (Information and Communication Technology Incubator) Bootcamp for entrepreneurship and startup in Syria this Bootcamp is one week long that gives all the participants the knowledge they need it to start their trip in entrepreneurship and start building their startup.

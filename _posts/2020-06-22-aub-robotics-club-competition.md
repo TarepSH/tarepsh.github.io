@@ -7,6 +7,7 @@ header-img: "img/in-post/IMG-20170216-WA0005.jpg"
 lang: en
 tags:
   - Robotics
+  - Tech
 ---
 
 Engineering Design Challenge (EDC) is a regional university-level engineering competition. It was launched for the first time in the American University of Beirut by the AUB Robotics Club in 2015. EDC 2.0 theme: Drive Smarter.
@@ -25,8 +26,7 @@ Engineering Design Challenge (EDC) is a regional university-level engineering c
 > 
 > The challenge this year is to design and build small self-driving cars, that can compete in two games; **Driving Test** and **Shawarma Express**. To win the games, [rolex replicas swiss made grade 1](http://ergunlernakliyat.com.tr/images/joomgallery/thumbnails/gallery_2/trlar_3/rw182.html) cars are expected to use sensors and control concepts to be able to operate reliably without human interaction. The games are described in detail in the documents below.
 
-![](images/IMG-20170213-WA0004.jpg)
+![](/img/in-post/IMG-20170213-WA0004.jpg)
 
-Unforgention we don't win this time, but it's was great experience.
 
-https://www.youtube.com/watch?v=L-EiDK2-l04
+![](https://www.youtube.com/watch?v=L-EiDK2-l04)
