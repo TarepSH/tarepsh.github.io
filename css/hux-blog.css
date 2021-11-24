@@ -1694,3 +1694,16 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+
+/* Tarek custome CSS */
+.cust-img-thumbnail {
+  transition: all .2s ease-in-out;
+  object-fit: cover;
+  border-radius: 5px;
+  object-position: center;
+  width: 100%;
+  max-height: 200px;
+  margin-top: 1rem;
+
+}

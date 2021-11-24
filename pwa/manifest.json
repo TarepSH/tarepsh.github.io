@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Tarek Sheikh Al-Shbab",
+  "short_name": "Tarepsh",
+  "description": "personal website",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
