@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-129452575-1'            # Format: UA-xxxxxx-xx
-ga_domain: tarekblog.com
+ga_track_id: 'UA-213635153-1'            # Format: UA-xxxxxx-xx
+ga_domain: tarepsh.github.com
 
 
 
