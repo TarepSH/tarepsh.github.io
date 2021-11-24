@@ -28,5 +28,4 @@ Engineering Design Challenge (EDC) is a regional university-level engineering c
 
 ![](/img/in-post/IMG-20170213-WA0004.jpg)
 
-
-![](https://www.youtube.com/watch?v=L-EiDK2-l04)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=L-EiDK2-l04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

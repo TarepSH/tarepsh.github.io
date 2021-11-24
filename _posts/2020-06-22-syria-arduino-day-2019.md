@@ -17,7 +17,7 @@ this event was co-organize with [Alia Hamwi](https://www.linkedin.com/in/alia-ha
 
 ![](/img/in-post/Syria-Arduino-Day-2019-AGENDA-page-001-1.jpg)
 
-![](https://www.youtube.com/watch?v=EvZL8lNufP8)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=EvZL8lNufP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu](http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu)

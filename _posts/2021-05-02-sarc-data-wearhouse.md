@@ -18,6 +18,6 @@ In this session, we would like to share with you our experiences in the IM depar
 
 When we build the solutions we keep in mind that we want to build sustainable ones, we want to increase the IM's department efficiency with as minimal coding as possible.
 
-![](https://www.youtube.com/watch?v=epRLY7Npf9Q)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=epRLY7Npf9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MAIsiD18fUBTxx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/sarc-data-wearhouse-automated-the-collection-and-process-monthly-data-for-100-sarc-warehouses-2m-distribution-items" title="SARC Data Wearhouse - Automated the collection and process monthly data for +100 SARC warehouses &amp; +2M distribution items" target="_blank">SARC Data Wearhouse - Automated the collection and process monthly data for +100 SARC warehouses &amp; +2M distribution items</a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>
