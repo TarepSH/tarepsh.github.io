@@ -21,7 +21,6 @@ We want to stimulate our vision for Syria in 2030 to be a smart country that use
 
 And we chose is the best place to start is Lattakia City in 2030 because of the rishi history and great geographic location that have a sea, mountains, and living city.
 
-![](https://www.youtube.com/watch?v=p3rBSB9RmV4)
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p3rBSB9RmV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/7c8YY6xVouGbqX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/wro-costa-rica-2017-latakia-2030-syria-report" title="WRO Costa Rica 2017 – Latakia 2030 - Syria - Report " target="_blank">WRO Costa Rica 2017 – Latakia 2030 - Syria - Report </a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>
