@@ -17,7 +17,7 @@ The Open Category is a project based competition. Students create their own inte
 
 ## Latakia 2030
 
-We want to stimulate our vision for Syria in 2030 to be a smart country that uses the latest technology, green building methods, clean energy, data mining, image processing, visual reality, agreement reality, machine learning, computer vision, and more advanced technology. 
+Is a simulation of our vision for Syria in 2030 to be a smart country that uses the latest technology, green building methods, clean energy, data mining, image processing, visual reality, agreement reality, machine learning, computer vision, and more advanced technology.
 
 And we chose is the best place to start is Lattakia City in 2030 because of the rishi history and great geographic location that have a sea, mountains, and living city.
 

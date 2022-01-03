@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SARC Data Wearhouse - Automated the collection and process monthly data for +100 SARC warehouses & +2M distribution items"
+title:      "SARC Data Warehouse - Automated the collection and process monthly data for +100 SARC warehouses & +2M distribution items"
 date:       2021-05-02 
 author:     "TarepSH"
 header-img: "img/in-post/4V1A5687-scaled.jpg"
