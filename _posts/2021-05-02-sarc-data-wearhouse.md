@@ -3,7 +3,7 @@ layout:     post
 title:      "Automating Data Processing and Quality Assurance with Python and Dataiku for +2M Monthly Distribution Items"
 date:       2021-05-02 
 author:     "TarepSH"
-header-img: "img/in-post/4V1A5687-scaled.jpg"
+header-img: "img/in-post/4_6033079297277694135-min.jpg"
 lang: en
 tags:
   - Data
