@@ -10,11 +10,6 @@ layout: default
   <div class="row">
     {% if site.sidebar == false %}
     <!-- NO SIDEBAR -->
-    <!-- PostList Container -->
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
-      postlist-container">
-      {{ content }}
-    </div>
     <!-- Sidebar Container -->
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
       sidebar-container">
@@ -23,7 +18,14 @@ layout: default
 
       <!-- Friends Blog -->
       {% include friends.html %}
+      <hr>
     </div>
+    
+      <!-- PostList Container -->
+      <div class="col-12">
+        {{ content }}
+      </div>
+    
     {% else %}
 
     <!-- USE SIDEBAR -->

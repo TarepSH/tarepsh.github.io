@@ -2,12 +2,16 @@
 layout: page
 title: "About"
 description: "Tarek Sheikh AL-Shbab"
-header-img: "img/about-bg.jpg"
+header-img: "img/home-bg-2.jpg"
 multilingual: false
 ---
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
 {% capture about_en %}{% include about/en.md %}{% endcapture %}
 {{ about_en | markdownify }}
-
+   
+</div>
 
 {% if site.disqus_username %}
 <!-- disqus 评论框 start -->

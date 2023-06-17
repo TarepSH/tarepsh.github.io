@@ -1,7 +1,7 @@
 # Site settings
 title: Tarek Sheikh AL-Shbab
 SEOTitle: Tarek Sheikh AL-Shbab 
-header-img: img/home-bg-2.jpg
+header-img: img/about-bg.jpg
 email: tarepsh@gmail.com
 description: "Tarek, Bachelor’s degree in Management information systems, Passionate about Business, Data and Entrepreneurship. A Web Science master’s degree student."
 keyword: "data, Management information systems, Entrepreneurship, Web Science, Robotics"
@@ -77,7 +77,7 @@ ga_domain: tarepsh.github.com
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Tarek, Bachelor’s degree in Management information systems, Passionate about Business, Data and Entrepreneurship. A Web Science master’s degree student."
 sidebar-avatar: https://github.com/TarepSH.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
