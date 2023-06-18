@@ -1,94 +1,52 @@
 ---
 layout:     post
-title:      "WRO India 2016 - TOEBI Makers"
+title:      "Meet TOEBI your composting robot "
 date:       2020-06-22 
 author:     "TarepSH"
-header-img: "img/in-post/DSC_0159-scaled.jpg"
+header-img: "img/in-post/22IMG-20161024-WA0005.jpg"
 lang: en
 tags:
   - Robotics
   - Tech
 ---
+![](/img/in-post/IMG-20161024-WA0005.jpg)
+
+## TOEBI Makers - A robot that makes compost for us with a mobile app
+
+I want to share an exciting chapter of my life that revolves around my participation in the World Robot Olympiad (WRO) India. This international robotics competition brought together young minds from different corners of the country, igniting a passion for technology, innovation, and teamwork. Join me as I take you through my incredible journey of joining and preparing for the WRO India competition.
+
 ## What is WRO Open Category? what is WRO?
 
 The World Robot Olympiad (WRO) is a global robotics competition for young people. The World Robot Olympiad competition uses Lego Mindstorms manufactured by LEGO Education. First held in 2004 in Singapore, it now attracts more than 26,000 teams from more than 65 countries.
 
 The Open Category is a project based competition. Students create their own intelligent robotics solution relating to the current theme of the season. Teams will present their project and their robot model to a group of judges on the competition day.
 
-![](/img/in-post/IMG-20161024-WA0005.jpg)
+## 1. The Spark of Interest
+Ever since I can remember, I've been fascinated by robotics. The idea of creating intelligent machines that can interact with the world around us always seemed like a magical realm waiting to be explored. So, when I stumbled upon the World Robot Olympiad, it felt like the perfect platform to turn my passion into reality.
 
-## TOEBI Makers - A robot that makes compost for us with a mobile app
+## 2. Assembling the Team
+In the early stages, I shared my enthusiasm with like-minded friends who shared my interest in robotics. Together, we formed a team of three determined individuals, eager to take on the challenges that awaited us. Our diverse skill sets and complementary strengths laid the foundation for a successful collaboration.
 
-this out presentation script for the my students for the project, I thinks it's the best way to explain the project:
+## 3. Choosing the Theme
+Each year, the WRO presents a unique theme to challenge participants' creativity and problem-solving abilities. We eagerly awaited the theme announcement, and when it finally arrived, it centered around sustainability and the environment. Excitement filled our hearts as we brainstormed ideas and contemplated how our robot could contribute to a greener future.
 
-**Mirna**  
-Hello everyone, I'm so glad to have you all in here today.  
-We're The Toebi makers team,  
-I'm Mirna this is Eaz and Hussam with our project the compost machine.  
+## 4. Designing and Building
+With the theme in mind, we began the process of designing our robot. We researched different mechanisms, explored various sensors and actuators, and sketched countless prototypes on paper. It was a thrilling experience to witness our ideas slowly take shape in the physical world. Hours turned into days as we tirelessly soldered, assembled, and fine-tuned our creation.
 
-Do you know that 50% of the world produced food is wasted every year, what equals  to 400 billion dollars each year.  
-We have a waste management problem and we're here to give you the solution.  
-Compost Machine!  
-Why do you need to have a compost machine?
+## 5. Programming the Intelligence
+Building the physical robot was just the first step; we needed to breathe life into it through programming. We chose a programming language that allowed us to write complex algorithms and create autonomous behaviors for our robot. The code became the bridge between our imagination and the actions our robot would perform during the competition.
 
-  
-**Eaz**  
-Earth is dying, and organic waste decomposition releases harmful gases such as methane and ammonia leading to greenhouse effect, diseases and climate change.
+## 6. Testing and Iteration
+As the competition date drew closer, we subjected our robot to rigorous testing and iteration. We fine-tuned its movements, optimized the algorithms, and eliminated any weaknesses we discovered along the way. It was a challenging process, but we understood that the key to success lay in perseverance and continuous improvement.
 
-So toebi is here to solve the problem by managing this waste and making fertilizers out of it.  
-This fertilizer is our compost, a mixture of rich nutrients such as Carbon and nitrogen with a little bit of water and air.
+## 7. Competing at WRO India
+Finally, the day arrived when we showcased our robot at the WRO India competition. The atmosphere was electrifying, filled with the buzzing energy of participants from all over the country. We exchanged ideas, made new friends, and marveled at the incredible innovations others had brought to the table. It was an enriching experience that broadened our horizons and expanded our understanding of robotics.
 
-But how does it work?  
+## 8. The Thrill of Achievement
+After months of hard work and dedication, our efforts bore fruit. We not only received recognition for our robot's performance but also gained invaluable experiences and skills. The sense of achievement was overwhelming, knowing that our determination and teamwork had paid off. It was a moment I will cherish forever.
 
-**Hussam**  
-Our compost machine is fully automated. You just need to put the materials and let the magic begin. It is as simple as it looks  
-Two shredders, one for newspapers, cartons, dry leaves and wood chips where we can get carbon from, and the second  is for getting the nitrogen from materials such as old vegetables, tossed fruits or anything organic.  
-  
-The smaller the pieces are the faster the process of decomposing will be.  
-  
-**Mirna**  
-Moreover, to get an eligible compost you need the right C:N ratio, and that happens when the materials goes to the Temporary Storage.  
-A phase where the right amounts of nitrogen and carbon are measured because, too much nitrogen might raise the acidity of the compost and releases a repellant smell and too much carbon would slow down the process.
+Participating in the World Robot Olympiad India was an exhilarating journey that fueled my passion for robotics. It was not just about winning or losing; it was about pushing boundaries, embracing challenges, and fostering a love for technology and innovation. The WRO India experience has shaped me into a more confident and creative individual, ready to take on future
 
-Our app will help to know the right C:N ratio, you just have to choose the materials you put and an average amount of them 
-
-We will know if the temporary storage is full by using the ultrasonic sensor, and according to the amount the storages under doors will open mechanically. This is when the materials go down to the bucket where the decomposition phase is going to start.
-
-**Hussam**  
-Both of the materials will be in the bucket, once they're in, the humidity sensor will check if the value is between 40-60%, if it was less than 40 the washer will immediately work and moisturize them, and if more than 60, the arm will mix them so the water will get down in the plastic bags inside the bucket. And guess what! This water can be used to the plants and it's really healthy for them.
-
-The mixing process is essential, oxygen is required for the aerobic decomposition that's why the arm will work every other day.
-
-**Eaz**  
-All the codes that every process have / is connected together to make toebi automated, starting from the shredders, to the temporary storages which we used bluetooth connection to send the sensor value and the average amount which the user has entered and calculate it in our application in aim to reach the right C:N ratio
-
-Then we have the bucket, Everything in the bucket is connected to the Arduino controller where all the data will be send.
-
-We thought that we should know when the water in the washer is going to end that's why we used a voltage divider to determine the water level as water resistance will change.
-
-Plus, we made a voltage divider circuit that consist of two resistors in a series to divide and bring the input voltage within the Arduino analog inputs range.
-
-But how would you know more about all those the details? Mirna will tell us… 
-
-**Mirna**  
-The best thing we did is that we made toebi connected to the cloud, which means that it has a mobile application to send you all the details like battery and water level, the end time for your compost and moisturize continent ..  
-Which means you have to download the app for your compost machine!
-
-Now lets imagine that we'll have toebi applied in the streets in the future in various sizes according to the place. As it have an IP address it will send the data to the trash cars when it's  full and the compost is ready, so the trash cars won’t come to find that its still empty, and we made it able to move so that when the trash cars will come they won't need anyone to move the trash and it also saves energy for the cars.
-
-**Eaz**  
-It started from thoughts and ideas we shared together and step by step we made this project to make a change in the world we live in,  
-because we realized how important the matter is.
-
-With our real solution, with no simulation more people will help to recycle organic waste and more countries will be able to plant crops and have food security because the nutrients in the compost can rebuild the soil. 
-
-Our project can rebuild the countries around the world.
-
-To a greener future we'll rebuild our agriculture.
-
-Thank you.
-
-* * *
 
 You can find more in this video and the full report down below:
 
