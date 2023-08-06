@@ -15,7 +15,7 @@ In my personal life, I'm a big fan of hiking, running, and playing the guitar. I
 You can check my projects/participation and other things in my website. 
 
 ## Companies I work for
-![Companies I work for](/img/list-of-companies-logo-2.png){: .img-responsive }
+![Companies I work for](/img/list-of-companies-logo-2.jpg){: .img-responsive }
 
 ## Data & Tech Porjcet 
 - [Spike - Online intacivae platform for data analysis and forecasting using AI](https://tarepsh.github.io/2020/06/21/spike/)
