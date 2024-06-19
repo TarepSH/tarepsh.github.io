@@ -1,18 +1,23 @@
+Experienced Information Management Manager with a robust background in developing and optimizing data workflows, transforming and analyzing data using Python and R, and creating insightful visualizations with tools like Power BI and Tableau. Skilled in database management across SQL, PostgreSQL, and MongoDB, with proficiency in implementing ETL processes and ensuring data governance and security. Demonstrated success in enhancing operational efficiency and decision-making through innovative digital solutions in challenging humanitarian contexts. Adept at strategic collaboration and advanced data analytics to drive impactful outcomes.
 
-## Companies I work for
-![Companies I work for](/img/list-of-companies-logo-2.jpg){: .img-responsive }
+## SKILLS
+ -   **Programming Languages**: Python, R
+    
+ -   **Databases**: SQL, PostgreSQL, MongoDB
+    
+ -   **Data Tools**: Azure, Dataiku, Pandas, NumPy, Tableau, Microsoft Power BI, CDM & Azure data lake, Microsoft Excel/Access, Linux, ODK, Kobo, GIS
+    
+ -   **Methodologies**: ETL, DWH, Data Governance, Data Protection, Data Visualization
+ 
+ 
+## EDUCATION
+ -   **MSc. in Web of Science**
+Syrian Virtual University (SVU)
 
-## Data & Tech Porjcet 
-- [Spike - Online intacivae platform for data analysis and forecasting using AI](https://tarepsh.github.io/2020/06/21/spike/)
-- [SARC Data Warehouse - Automated the collection and process monthly data for +100 SARC warehouses & +2M distribution items](https://tarepsh.github.io/2021/05/02/sarc-data-wearhouse/)
-- [BitCode - Learn how to code in Arabic](https://tarepsh.github.io/2020/06/21/spike/)
-- [WRO Robotics - Smart City - Latakia 2030](https://tarepsh.github.io/2020/06/22/wro-costa-rica-2017-latakia-2030/)
-- [Robotics in Syria Report - 2017/2018](https://tarepsh.github.io/2020/06/22/robotics-in-syria-report/)
-
-## Entrepreneurship 
-- [MIT Global Entrepreneurship Bootcamp – Class 3](https://tarepsh.github.io/2020/06/22/mit-global-entrepreneurship-bootcamp-class-3/)
-- [ICT Incubator Bootcamp, Damascus & Homs City](https://tarepsh.github.io/2020/06/22/ict-incubator-bootcamp-damascus-homs-city/)
-- [First-ever Startup Weekend event in Syria](https://tarepsh.github.io/2020/06/22/startup-weekend/)
+ -   **B.Sc. in Management Information Systems**
+Arab International University (AIU)
 
 
-and more in my blog.
+## Organization and Companies I work for
+![Companies I work for](/img/list-of-companies-logo-3.jpg){: .img-responsive }
+
