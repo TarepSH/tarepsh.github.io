@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "CASH Assistance Beneficiaries Registration system"
+title:      "CASH Assistance Beneficiaries Registration system - SARC Syria"
 date:       2022-03-26 
 author:     "TarepSH"
 header-img: "img/in-post/cash-app-icon.png"
@@ -17,8 +17,9 @@ ETL Pipeline Development: Engineered an ETL (Extract, Transform, Load) pipeline 
 As of the last update in 2023, the system manages data for 24,779 registered beneficiaries. Approximately 34.5% (8,554 beneficiaries) utilized the ID barcode scanner feature via camera, including 4,811 beneficiaries with Syrian IDs and 696 records with family statements, encompassing 5,835 beneficiaries.
 
 Links and some photo of the system: 
-[Syrian-Arab-Red-Crescent-SARC/collect: ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging environments around the world. Contribute and make the world a better place! ✨📋✨](https://github.com/Syrian-Arab-Red-Crescent-SARC/collect)
 
-![screenshot of odk app](img/in-post/odk-screenshot.gif)
+[Syrian-Arab-Red-Crescent-SARC/collect:](https://github.com/Syrian-Arab-Red-Crescent-SARC/collect)
 
-![screenshot of dataiku ETL](img/in-post/dataiku-etl-screenshot.png)
+![screenshot of odk app](/img/in-post/odk-screenshot.gif)
+
+![screenshot of dataiku ETL](/img/in-post/dataiku-etl-screenshot.png)
