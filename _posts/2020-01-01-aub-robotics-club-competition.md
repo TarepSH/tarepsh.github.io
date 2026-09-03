@@ -9,22 +9,11 @@ tags:
   - Robotics
   - Tech
 ---
+The Engineering Design Challenge (EDC) is a university-level engineering competition for the region. The AUB Robotics Club ran it for the first time at the American University of Beirut in 2015. The theme of EDC 2.0 was "Drive Smarter".
 
-Engineering Design Challenge (EDC) is a regional university-level engineering competition. It was launched for the first time in the American University of Beirut by the AUB Robotics Club in 2015. EDC 2.0 theme: Drive Smarter.
+The idea behind it is simple. Engineering students in the region get very little hands-on practice, so many graduate without ever applying what they studied. EDC gives them that practice, and pushes them to research things no course covered: control theory, machine learning, navigation systems and computer vision.
 
-> ## Goal
-> 
-> Engineering education in the region’s universities lacks good practical experience; many engineers graduate without having the chance to apply or implement concepts in their fields. Moreover, problem solving skills and self-learning aren’t always expressed in the traditional style of university education. In order for industrial growth and technical innovation to boom, there is a need for more hands on experience for students.
-> 
-> EDC tries to offer this practical experience to yield confident engineers, fake rolex who can connect dots between what is offered in courses and what is useful, and who are not afraid to learn something new on their own and further their skills. EDC’s main goal is educational; students are able to better understand what they learn once they get the opportunity to apply it. The competitive spirit of EDC encourages university students to work independently and research new concepts, integrating fun into the learning process, which makes for a more involved university experience.
-> 
-> EDC is the first competition in the MENA region that deeply tackles university-level engineering concepts such as control theory models, machine learning techniques, navigation systems, computer vision, and other concepts in mechanical, electrical, and computer engineering. In the future, EDC will grow to focus on more tasks from various engineering disciplines.
-> 
-> ## Theme
-> 
-> Due to the growing demand and focus on self-driving autonomous cars in the industry, challenging undergraduate students to create a prototype of a smart car would give them the basic tools needed for a bright future in the industry.
-> 
-> The challenge this year is to design and build small self-driving cars, that can compete in two games; **Driving Test** and **Shawarma Express**. To win the games, cars are expected to use sensors and control concepts to be able to operate reliably without human interaction. The games are described in detail in the documents below.
+For EDC 2.0, teams designed and built small self-driving cars for two games, **Driving Test** and **Shawarma Express**. The cars had to use sensors and control systems to finish the games on their own, with no human help.
 
 ![](/img/in-post/IMG-20170213-WA0004.jpg)
 
