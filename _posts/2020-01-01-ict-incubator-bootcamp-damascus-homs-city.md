@@ -8,23 +8,22 @@ lang: en
 tags:
   - Entrepreneurship 
 ---
+We ran a one-week ICT Incubator Bootcamp on entrepreneurship and startups in Syria. It gives participants what they need to start building a company.
 
-We have launched an ICT (Information and Communication Technology Incubator) Bootcamp for entrepreneurship and startup in Syria this Bootcamp is one week long that gives all the participants the knowledge they need it to start their trip in entrepreneurship and start building their startup.
+The first bootcamp ran in Damascus in October 2015, where we accepted 21 ideas. We ran it again at ICTI in Homs in November 2015 for 14 ideas, and we are preparing another one at ICTI in Latakia in summer 2016.
 
-We have the Bootcamp in October 2015 for Damascus and we accepted 21 ideas from, and we do it in ICTI in Homs city for 14 ideas in November 2015, and we are preparing for another one in ICTI in Latakia this summer 2016.
+The agenda covered:
 
-the topics and agenda of bootcamp was about:
+- What is entrepreneurship, and how a startup differs from an SME
+- Lean Startup: what it gets right and what it misses
+- Why companies fail, and the business model
+- Communication, e-marketing and branding guidelines
+- How to finance a startup, income statements and revenue streams
+- Pitching, and what an investor looks for
 
-- What is entrepreneurship and difference between SME and Startup?
-- Lean Startup: what it gets and misses about your startup
-- Why Companies Fail - Business Model
-- Communication - e Marketing - Branding Guidelines
-- How to Finance your startup - Income statement - - Revenue Streams
-- Pitching - What does an investor look for?
+The team I worked with:
 
-The great team we work together in this Bootcamp:
-
-**Damascus**: 
+**Damascus**:
 
 - [Fadwa Murad](https://www.linkedin.com/in/fadwa-murad-26b16a1)
 - [AlHasan Muhammad Ali](https://www.linkedin.com/in/alhasan94)
