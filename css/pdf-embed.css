@@ -1,0 +1,66 @@
+/* Self-hosted PDF embeds (see _includes/pdf.html) */
+.pdf-embed {
+    margin: 30px 0;
+    padding: 0;
+}
+.pdf-embed__frame,
+.pdf-embed__iframe {
+    display: block;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    background: #f7f7f7;
+}
+.pdf-embed__cover {
+    display: none;
+}
+.pdf-embed__cover img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+.pdf-embed__cover-hint {
+    display: block;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}
+.pdf-embed__caption {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 6px 16px;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #666;
+}
+.pdf-embed__title {
+    font-weight: 600;
+    color: #404040;
+}
+.pdf-embed__actions a {
+    margin-left: 14px;
+    white-space: nowrap;
+}
+.pdf-embed__actions a:first-child {
+    margin-left: 0;
+}
+
+/* Phones and small tablets do not render PDFs inline (iOS Safari and
+   Android Chrome both refuse), so show the cover page and link out. */
+@media (max-width: 767px) {
+    .pdf-embed__frame {
+        display: none;
+    }
+    .pdf-embed__cover {
+        display: block;
+    }
+    .pdf-embed__caption {
+        justify-content: center;
+        text-align: center;
+    }
+}

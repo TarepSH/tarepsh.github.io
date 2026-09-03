@@ -5,9 +5,33 @@
     <description>Tarek, Bachelor’s degree in Management information systems, Passionate about Business, Data and Entrepreneurship. A Web Science master’s degree student.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Aug 2023 14:04:33 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Aug 2023 14:04:33 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Thu, 03 Sep 2026 05:54:11 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:54:11 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Empowering Data Validation for IFRC Data bank with AI and Open-Source Tools</title>
+        <description>&lt;p&gt;In today’s data-driven world, accuracy is key. Organizations, including the International Federation of Red Cross and Red Crescent Societies (IFRC), are leveraging Artificial Intelligence (AI) and open-source tools to revolutionize data validation. This blog explores how these technologies enhance reliability while prioritizing privacy across global operations.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;the-ifrc-global-innovation-summit-2023---how-to-use-ai-driven-data-validation-with-fdrs&quot;&gt;The IFRC Global Innovation Summit 2023 - How to use AI driven Data Validation with FDRS&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This interactive session aims to empower participants by showcasing the transformative potential of AI and open-source tools in optimizing the data validation process within the IFRC’s Federation-wide Databank Reporting System (FDRS). Through real-world examples, practical strategies, and a live demonstration, participants will gain valuable insights into the current automation efforts in data validation across 191 National Societies worldwide. This interactive approach allows participants to actively engage with the showcased tools and techniques, enhancing their understanding of how AI and open-source tools can ensure the accuracy and reliability of collected data, with a specific focus on data privacy and protection.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/60sIYDJqzyQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+        <link>/2023/06/26/how-to-use-ai-driven-data-validation-with-fdrs/</link>
+        <guid isPermaLink="true">/2023/06/26/how-to-use-ai-driven-data-validation-with-fdrs/</guid>
+        
+        <category>Data</category>
+        
+        <category>Tech</category>
+        
+        
+      </item>
     
       <item>
         <title>Spike - makes AI accessible for all businesses, governments and other enterprises</title>
@@ -33,13 +57,46 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 
 &lt;p&gt;More about Spike down below, youtube ads, pitch deck of Spike, graduation project report:&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=RltD80HK0io&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/RltD80HK0io&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/e7PYTQcfNYnPqI&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/spike-pitch-deck&quot; title=&quot;Spike - pitch deck&quot; target=&quot;_blank&quot;&gt;Spike - pitch deck&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;figure class=&quot;pdf-embed&quot;&gt;
+  &lt;object class=&quot;pdf-embed__frame&quot; data=&quot;/assets/pdf/spike-pitch-deck.pdf#view=FitH&quot; type=&quot;application/pdf&quot; height=&quot;640&quot; aria-label=&quot;Spike — pitch deck&quot;&gt;
+    &lt;iframe class=&quot;pdf-embed__iframe&quot; src=&quot;/assets/pdf/spike-pitch-deck.pdf#view=FitH&quot; height=&quot;640&quot; title=&quot;Spike — pitch deck&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+  &lt;/object&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/H0N667FgZAbP2&quot; width=&quot;668&quot; height=&quot;714&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/spike-report-for-degree-of-bachelor-of-business-administrationmanagement-information-technology&quot; title=&quot;Spike - Report for Degree of Bachelor of Business Administration/Management Information Technology&quot; target=&quot;_blank&quot;&gt;Spike - Report for Degree of Bachelor of Business Administration/Management Information Technology&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+  &lt;a class=&quot;pdf-embed__cover&quot; href=&quot;/assets/pdf/spike-pitch-deck.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;img src=&quot;/assets/pdf/spike-pitch-deck-cover.jpg&quot; alt=&quot;Spike — pitch deck — first page&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;span class=&quot;pdf-embed__cover-hint&quot;&gt;Tap to open the PDF&lt;/span&gt;
+  &lt;/a&gt;
+
+  &lt;figcaption class=&quot;pdf-embed__caption&quot;&gt;
+    &lt;span class=&quot;pdf-embed__title&quot;&gt;Spike — pitch deck · 44 pages&lt;/span&gt;
+    &lt;span class=&quot;pdf-embed__actions&quot;&gt;
+      &lt;a href=&quot;/assets/pdf/spike-pitch-deck.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open in new tab&lt;/a&gt;
+      &lt;a href=&quot;/assets/pdf/spike-pitch-deck.pdf&quot; download=&quot;&quot;&gt;Download PDF&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;pdf-embed&quot;&gt;
+  &lt;object class=&quot;pdf-embed__frame&quot; data=&quot;/assets/pdf/spike-graduation-report.pdf#view=FitH&quot; type=&quot;application/pdf&quot; height=&quot;640&quot; aria-label=&quot;Spike — Bachelor of Business Administration / MIS graduation report&quot;&gt;
+    &lt;iframe class=&quot;pdf-embed__iframe&quot; src=&quot;/assets/pdf/spike-graduation-report.pdf#view=FitH&quot; height=&quot;640&quot; title=&quot;Spike — Bachelor of Business Administration / MIS graduation report&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+  &lt;/object&gt;
+
+  &lt;a class=&quot;pdf-embed__cover&quot; href=&quot;/assets/pdf/spike-graduation-report.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;img src=&quot;/assets/pdf/spike-graduation-report-cover.jpg&quot; alt=&quot;Spike — Bachelor of Business Administration / MIS graduation report — first page&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;span class=&quot;pdf-embed__cover-hint&quot;&gt;Tap to open the PDF&lt;/span&gt;
+  &lt;/a&gt;
+
+  &lt;figcaption class=&quot;pdf-embed__caption&quot;&gt;
+    &lt;span class=&quot;pdf-embed__title&quot;&gt;Spike — Bachelor of Business Administration / MIS graduation report · 131 pages&lt;/span&gt;
+    &lt;span class=&quot;pdf-embed__actions&quot;&gt;
+      &lt;a href=&quot;/assets/pdf/spike-graduation-report.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open in new tab&lt;/a&gt;
+      &lt;a href=&quot;/assets/pdf/spike-graduation-report.pdf&quot; download=&quot;&quot;&gt;Download PDF&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
         <link>/2023/06/21/spike/</link>
@@ -50,6 +107,33 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
         <category>Startups</category>
         
         <category>Entrepreneurship</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CASH Assistance Beneficiaries Registration system - SARC Syria</title>
+        <description>&lt;p&gt;Custom ODK Collect Application Development: Designed and developed a customized ODK Collect application that facilitates reading beneficiaries’ personal IDs by scanning barcodes through a volunteer’s mobile camera in the field. Implemented offline synchronization to ensure seamless data collection in areas with limited connectivity.&lt;/p&gt;
+
+&lt;p&gt;ETL Pipeline Development: Engineered an ETL (Extract, Transform, Load) pipeline using Dataiku and Python to efficiently process, clean, analyze, and store data. This pipeline ensures smooth data integration and availability via APIs for integration into other programs.&lt;/p&gt;
+
+&lt;p&gt;As of the last update in 2023, the system manages data for 24,779 registered beneficiaries. Approximately 34.5% (8,554 beneficiaries) utilized the ID barcode scanner feature via camera, including 4,811 beneficiaries with Syrian IDs and 696 records with family statements, encompassing 5,835 beneficiaries.&lt;/p&gt;
+
+&lt;p&gt;Links and some photo of the system:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Syrian-Arab-Red-Crescent-SARC/collect&quot;&gt;Syrian-Arab-Red-Crescent-SARC/collect:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/odk-screenshot.gif&quot; alt=&quot;screenshot of odk app&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/dataiku-etl-screenshot.png&quot; alt=&quot;screenshot of dataiku ETL&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+        <link>/2022/03/26/cash-assistance-beneficiaries-registration-system/</link>
+        <guid isPermaLink="true">/2022/03/26/cash-assistance-beneficiaries-registration-system/</guid>
+        
+        <category>Data</category>
+        
+        <category>Tech</category>
         
         
       </item>
@@ -96,10 +180,27 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 &lt;p&gt;Please note that this is a high-level overview of your code. You can check more about from here: 
 [“https://github.com/Syrian-Arab-Red-Crescent-SARC/Dataiku-auto-warehousing-and-distribution/blob/master/recipes/compute_test.py”]&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=epRLY7Npf9Q&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/epRLY7Npf9Q&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/MAIsiD18fUBTxx&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/sarc-data-wearhouse-automated-the-collection-and-process-monthly-data-for-100-sarc-warehouses-2m-distribution-items&quot; title=&quot;SARC Data Wearhouse - Automated the collection and process monthly data for +100 SARC warehouses &amp;amp; +2M distribution items&quot; target=&quot;_blank&quot;&gt;SARC Data Wearhouse - Automated the collection and process monthly data for +100 SARC warehouses &amp;amp; +2M distribution items&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;figure class=&quot;pdf-embed&quot;&gt;
+  &lt;object class=&quot;pdf-embed__frame&quot; data=&quot;/assets/pdf/sarc-data-warehouse.pdf#view=FitH&quot; type=&quot;application/pdf&quot; height=&quot;640&quot; aria-label=&quot;SARC Data Warehouse — automating monthly data for 100+ warehouses&quot;&gt;
+    &lt;iframe class=&quot;pdf-embed__iframe&quot; src=&quot;/assets/pdf/sarc-data-warehouse.pdf#view=FitH&quot; height=&quot;640&quot; title=&quot;SARC Data Warehouse — automating monthly data for 100+ warehouses&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+  &lt;/object&gt;
+
+  &lt;a class=&quot;pdf-embed__cover&quot; href=&quot;/assets/pdf/sarc-data-warehouse.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;img src=&quot;/assets/pdf/sarc-data-warehouse-cover.jpg&quot; alt=&quot;SARC Data Warehouse — automating monthly data for 100+ warehouses — first page&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;span class=&quot;pdf-embed__cover-hint&quot;&gt;Tap to open the PDF&lt;/span&gt;
+  &lt;/a&gt;
+
+  &lt;figcaption class=&quot;pdf-embed__caption&quot;&gt;
+    &lt;span class=&quot;pdf-embed__title&quot;&gt;SARC Data Warehouse — automating monthly data for 100+ warehouses · 23 pages&lt;/span&gt;
+    &lt;span class=&quot;pdf-embed__actions&quot;&gt;
+      &lt;a href=&quot;/assets/pdf/sarc-data-warehouse.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open in new tab&lt;/a&gt;
+      &lt;a href=&quot;/assets/pdf/sarc-data-warehouse.pdf&quot; download=&quot;&quot;&gt;Download PDF&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
         <link>/2021/05/02/sarc-data-wearhouse/</link>
@@ -128,8 +229,25 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/p3rBSB9RmV4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/7c8YY6xVouGbqX&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/wro-costa-rica-2017-latakia-2030-syria-report&quot; title=&quot;WRO Costa Rica 2017 – Latakia 2030 - Syria - Report &quot; target=&quot;_blank&quot;&gt;WRO Costa Rica 2017 – Latakia 2030 - Syria - Report &lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;figure class=&quot;pdf-embed&quot;&gt;
+  &lt;object class=&quot;pdf-embed__frame&quot; data=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report.pdf#view=FitH&quot; type=&quot;application/pdf&quot; height=&quot;640&quot; aria-label=&quot;WRO Costa Rica 2017 — Latakia 2030, Syria — report&quot;&gt;
+    &lt;iframe class=&quot;pdf-embed__iframe&quot; src=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report.pdf#view=FitH&quot; height=&quot;640&quot; title=&quot;WRO Costa Rica 2017 — Latakia 2030, Syria — report&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+  &lt;/object&gt;
+
+  &lt;a class=&quot;pdf-embed__cover&quot; href=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;img src=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report-cover.jpg&quot; alt=&quot;WRO Costa Rica 2017 — Latakia 2030, Syria — report — first page&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;span class=&quot;pdf-embed__cover-hint&quot;&gt;Tap to open the PDF&lt;/span&gt;
+  &lt;/a&gt;
+
+  &lt;figcaption class=&quot;pdf-embed__caption&quot;&gt;
+    &lt;span class=&quot;pdf-embed__title&quot;&gt;WRO Costa Rica 2017 — Latakia 2030, Syria — report · 82 pages&lt;/span&gt;
+    &lt;span class=&quot;pdf-embed__actions&quot;&gt;
+      &lt;a href=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open in new tab&lt;/a&gt;
+      &lt;a href=&quot;/assets/pdf/wro-costa-rica-2017-latakia-2030-report.pdf&quot; download=&quot;&quot;&gt;Download PDF&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
         <link>/2020/06/22/wro-costa-rica-2017-latakia-2030/</link>
@@ -148,13 +266,13 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 
 &lt;p&gt;The World Arduino Day was organized at ASPU (Al-Sham Private University) theater with the participation of the Mechatronics Club at the Syrian Computer Society, the Robotics Club at the Faculty of Informatics at the University of Damascus and the Voluntary Ambition Team from the Faculty of Computer and Automation Engineering at Damascus University.&lt;/p&gt;
 
-&lt;p&gt;this event was co-organize with &lt;a href=&quot;https://www.linkedin.com/in/alia-hamwi/&quot;&gt;Alia Hamwi&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/louayaz/&quot;&gt;Louay Abo Al-Zahb&lt;/a&gt; and sponsored by &lt;a href=&quot;http://www.aspu.edu.sy/en/home&quot;&gt;Al-Sham Private University&lt;/a&gt; and &lt;a href=&quot;http://www.scs.org.sy/&quot;&gt;Syrian Computer Society&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;this event was co-organize with &lt;a href=&quot;https://www.linkedin.com/in/alia-hamwi/&quot;&gt;Alia Hamwi&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/louayaz/&quot;&gt;Louay Abo Al-Zahb&lt;/a&gt; and sponsored by &lt;a href=&quot;https://aspu.edu.sy/&quot;&gt;Al-Sham Private University&lt;/a&gt; and &lt;a href=&quot;http://www.scs.org.sy/&quot;&gt;Syrian Computer Society&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/in-post/Syria-Arduino-Day-2019-AGENDA-page-001-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=EvZL8lNufP8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/EvZL8lNufP8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu&quot;&gt;http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The university’s write-up of the day (aspu.edu.sy) is no longer online.&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
         <link>/2020/06/22/syria-arduino-day-2019/</link>
@@ -177,13 +295,12 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 
 &lt;p&gt;The 54-hour event will measure public interest in Startup technologies within Damascus, and will reward a winner with access to venture funding and publicity. The three-day event, will be preceded by a “bootcamp“ for participants, and will include a cast of international entrepreneurs are scheduled to attend online….. for more you can read one of below article:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.huffpost.com/entry/startup-weekend-damascus\_b\_4782634&quot;&gt;https://www.huffpost.com/entry/startup-weekend-damascus_b_4782634&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis&quot;&gt;http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.arabnet.me/english/editorials/events/damascus-to-host-its-first-startup-weekend-in-february&quot;&gt;https://www.arabnet.me/english/editorials/events/damascus-to-host-its-first-startup-weekend-in-february&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone&quot;&gt;http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.huffpost.com/entry/startup-weekend-damascus_b_4782634&quot;&gt;HuffPost — Startup Weekend Damascus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis&quot;&gt;Wamda — First Startup Weekend in Damascus: an active environment despite the crisis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone&quot;&gt;Techstars Communities — Startup Weekend Damascus: entrepreneurship in a war zone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ArabNet — “Damascus to host its first Startup Weekend in February” (the article is no longer online)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
         <link>/2020/06/22/startup-weekend/</link>
@@ -206,8 +323,25 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 
 &lt;p&gt;you can check the report down below:&lt;/p&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/gOE1WlMiHLvqP8&quot; width=&quot;668&quot; height=&quot;714&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/robotics-in-syria-report-20172018&quot; title=&quot;Robotics in Syria Report – 2017/2018&quot; target=&quot;_blank&quot;&gt;Robotics in Syria Report – 2017/2018&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;figure class=&quot;pdf-embed&quot;&gt;
+  &lt;object class=&quot;pdf-embed__frame&quot; data=&quot;/assets/pdf/robotics-in-syria-report-2017-2018.pdf#view=FitH&quot; type=&quot;application/pdf&quot; height=&quot;640&quot; aria-label=&quot;Robotics in Syria — Report 2017/2018&quot;&gt;
+    &lt;iframe class=&quot;pdf-embed__iframe&quot; src=&quot;/assets/pdf/robotics-in-syria-report-2017-2018.pdf#view=FitH&quot; height=&quot;640&quot; title=&quot;Robotics in Syria — Report 2017/2018&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+  &lt;/object&gt;
+
+  &lt;a class=&quot;pdf-embed__cover&quot; href=&quot;/assets/pdf/robotics-in-syria-report-2017-2018.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;img src=&quot;/assets/pdf/robotics-in-syria-report-2017-2018-cover.jpg&quot; alt=&quot;Robotics in Syria — Report 2017/2018 — first page&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;span class=&quot;pdf-embed__cover-hint&quot;&gt;Tap to open the PDF&lt;/span&gt;
+  &lt;/a&gt;
+
+  &lt;figcaption class=&quot;pdf-embed__caption&quot;&gt;
+    &lt;span class=&quot;pdf-embed__title&quot;&gt;Robotics in Syria — Report 2017/2018 · 58 pages&lt;/span&gt;
+    &lt;span class=&quot;pdf-embed__actions&quot;&gt;
+      &lt;a href=&quot;/assets/pdf/robotics-in-syria-report-2017-2018.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open in new tab&lt;/a&gt;
+      &lt;a href=&quot;/assets/pdf/robotics-in-syria-report-2017-2018.pdf&quot; download=&quot;&quot;&gt;Download PDF&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
         <link>/2020/06/22/robotics-in-syria-report/</link>
@@ -227,11 +361,11 @@ Spike makes AI accessible for all businesses, governments and other enterprises.
 &lt;p&gt;The Bootcamp will be the most intense education experience of your life.&lt;br /&gt;
 Throughout the program, Bootcampers learn and practice a variety of new skills related to entrepreneurship and innovation, both from MIT faculty, MIT coaches, and guest speakers as well as through their experiences in project teams. Each Bootcamper has the opportunity to be CEO, leading the team through its project work for a day. In one week, the Bootcamp provides participants many experiences most entrepreneurs and innovators face in the first 2-3 years of a new venture.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=u6\_jdJ7YRXM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/u6_jdJ7YRXM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;my-class-class-3---mit-global-entrepreneurship-bootcamp-seoul&quot;&gt;My class Class 3 - MIT Global Entrepreneurship Bootcamp, Seoul&lt;/h2&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=0ovIQeVqEQc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/0ovIQeVqEQc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bootcamp.mit.edu/tarekalshbab/&quot;&gt;https://bootcamp.mit.edu/tarekalshbab/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -240,91 +374,6 @@ Throughout the program, Bootcampers learn and practice a variety of new skills r
         <guid isPermaLink="true">/2020/06/22/mit-global-entrepreneurship-bootcamp-class-3/</guid>
         
         <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Co-Organize National Competition - World Robot Olympiad WRO - Syria 2018</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/in-post/WRO-2018.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The World Robot Olympiad (WRO) is a global robotics competition for young people. The World Robot Olympiad competition uses Lego Mindstorms manufactured by LEGO Education. First held in 2004 in Singapore, it now attracts more than 26,000 teams from more than 65 countries.&lt;/p&gt;
-
-&lt;p&gt;National Competition for Syria with more than 75 teams, 25 judges, 30 volunteers, 400 robotics match.&lt;/p&gt;
-
-&lt;p&gt;This competition was sponsor by &lt;a href=&quot;http://www.scs.org.sy/&quot;&gt;Syrian Computer Society&lt;/a&gt; and co-organizer with Mr. &lt;a href=&quot;https://www.linkedin.com/in/waseem-saad-1924a043/&quot;&gt;Wassem Saad&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.youtube.com/watch?v=e\_3PVwMx8-c&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=e\_3PVwMx8-c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/3jgyKTVG34Jb4&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/national-competition-world-robot-olympiad-wro-syria-2018&quot; title=&quot;National Competition - World Robot Olympiad WRO - Syria 2018&quot; target=&quot;_blank&quot;&gt;National Competition - World Robot Olympiad WRO - Syria 2018&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
-</description>
-        <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-        <link>/2020/06/22/wro-syria-2018/</link>
-        <guid isPermaLink="true">/2020/06/22/wro-syria-2018/</guid>
-        
-        <category>Robotics</category>
-        
-        <category>Tech</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Meet TOEBI your composting robot </title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/in-post/IMG-20161024-WA0005.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;toebi-makers---a-robot-that-makes-compost-for-us-with-a-mobile-app&quot;&gt;TOEBI Makers - A robot that makes compost for us with a mobile app&lt;/h2&gt;
-
-&lt;p&gt;I want to share an exciting chapter of my life that revolves around my participation in the World Robot Olympiad (WRO) India. This international robotics competition brought together young minds from different corners of the country, igniting a passion for technology, innovation, and teamwork. Join me as I take you through my incredible journey of joining and preparing for the WRO India competition.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-wro-open-category-what-is-wro&quot;&gt;What is WRO Open Category? what is WRO?&lt;/h2&gt;
-
-&lt;p&gt;The World Robot Olympiad (WRO) is a global robotics competition for young people. The World Robot Olympiad competition uses Lego Mindstorms manufactured by LEGO Education. First held in 2004 in Singapore, it now attracts more than 26,000 teams from more than 65 countries.&lt;/p&gt;
-
-&lt;p&gt;The Open Category is a project based competition. Students create their own intelligent robotics solution relating to the current theme of the season. Teams will present their project and their robot model to a group of judges on the competition day.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-the-spark-of-interest&quot;&gt;1. The Spark of Interest&lt;/h2&gt;
-&lt;p&gt;Ever since I can remember, I’ve been fascinated by robotics. The idea of creating intelligent machines that can interact with the world around us always seemed like a magical realm waiting to be explored. So, when I stumbled upon the World Robot Olympiad, it felt like the perfect platform to turn my passion into reality.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-assembling-the-team&quot;&gt;2. Assembling the Team&lt;/h2&gt;
-&lt;p&gt;In the early stages, I shared my enthusiasm with like-minded friends who shared my interest in robotics. Together, we formed a team of three determined individuals, eager to take on the challenges that awaited us. Our diverse skill sets and complementary strengths laid the foundation for a successful collaboration.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-choosing-the-theme&quot;&gt;3. Choosing the Theme&lt;/h2&gt;
-&lt;p&gt;Each year, the WRO presents a unique theme to challenge participants’ creativity and problem-solving abilities. We eagerly awaited the theme announcement, and when it finally arrived, it centered around sustainability and the environment. Excitement filled our hearts as we brainstormed ideas and contemplated how our robot could contribute to a greener future.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-designing-and-building&quot;&gt;4. Designing and Building&lt;/h2&gt;
-&lt;p&gt;With the theme in mind, we began the process of designing our robot. We researched different mechanisms, explored various sensors and actuators, and sketched countless prototypes on paper. It was a thrilling experience to witness our ideas slowly take shape in the physical world. Hours turned into days as we tirelessly soldered, assembled, and fine-tuned our creation.&lt;/p&gt;
-
-&lt;h2 id=&quot;5-programming-the-intelligence&quot;&gt;5. Programming the Intelligence&lt;/h2&gt;
-&lt;p&gt;Building the physical robot was just the first step; we needed to breathe life into it through programming. We chose a programming language that allowed us to write complex algorithms and create autonomous behaviors for our robot. The code became the bridge between our imagination and the actions our robot would perform during the competition.&lt;/p&gt;
-
-&lt;h2 id=&quot;6-testing-and-iteration&quot;&gt;6. Testing and Iteration&lt;/h2&gt;
-&lt;p&gt;As the competition date drew closer, we subjected our robot to rigorous testing and iteration. We fine-tuned its movements, optimized the algorithms, and eliminated any weaknesses we discovered along the way. It was a challenging process, but we understood that the key to success lay in perseverance and continuous improvement.&lt;/p&gt;
-
-&lt;h2 id=&quot;7-competing-at-wro-india&quot;&gt;7. Competing at WRO India&lt;/h2&gt;
-&lt;p&gt;Finally, the day arrived when we showcased our robot at the WRO India competition. The atmosphere was electrifying, filled with the buzzing energy of participants from all over the country. We exchanged ideas, made new friends, and marveled at the incredible innovations others had brought to the table. It was an enriching experience that broadened our horizons and expanded our understanding of robotics.&lt;/p&gt;
-
-&lt;h2 id=&quot;8-the-thrill-of-achievement&quot;&gt;8. The Thrill of Achievement&lt;/h2&gt;
-&lt;p&gt;After months of hard work and dedication, our efforts bore fruit. We not only received recognition for our robot’s performance but also gained invaluable experiences and skills. The sense of achievement was overwhelming, knowing that our determination and teamwork had paid off. It was a moment I will cherish forever.&lt;/p&gt;
-
-&lt;p&gt;Participating in the World Robot Olympiad India was an exhilarating journey that fueled my passion for robotics. It was not just about winning or losing; it was about pushing boundaries, embracing challenges, and fostering a love for technology and innovation. The WRO India experience has shaped me into a more confident and creative individual, ready to take on future&lt;/p&gt;
-
-&lt;p&gt;You can find more in this video and the full report down below:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/v=4sfCTQXxCPw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/cs0KJMmORyGxS4&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/tarepsh/toebi-makers-wro-india-2016-open-category-syria-reportupdate1&quot; title=&quot;Toebi makers wro india 2016 - open category - syria - report-update1&quot; target=&quot;_blank&quot;&gt;Toebi makers wro india 2016 - open category - syria - report-update1&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/tarepsh&quot; target=&quot;_blank&quot;&gt;Tarek Sheikh AL-Shbab&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
-</description>
-        <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-        <link>/2020/06/22/wro-india-2016-toebi-makers/</link>
-        <guid isPermaLink="true">/2020/06/22/wro-india-2016-toebi-makers/</guid>
-        
-        <category>Robotics</category>
-        
-        <category>Tech</category>
         
         
       </item>
