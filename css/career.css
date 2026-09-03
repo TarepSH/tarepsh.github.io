@@ -1,0 +1,296 @@
+/* About page sections (see _includes/career.html + _data/career.yml).
+   Every class is prefixed cv- so nothing collides with the theme. */
+
+.cv {
+    --accent: #0085a1;
+    --ink: #2b2b2b;
+    --muted: #7a7a7a;
+    --rule: #e6e8e9;
+    margin-top: 40px;
+}
+
+.cv-heading {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 54px 0 22px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--rule);
+}
+
+/* ---------- worked with ---------- */
+
+.cv-wall {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 26px 38px;
+    align-items: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cv-wall-item {
+    width: 98px;
+    text-align: center;
+}
+
+.cv-wall-logo {
+    display: block;
+    width: 62px;
+    height: 62px;
+    margin: 0 auto 9px;
+    object-fit: contain;
+}
+
+.cv-wall-name {
+    display: block;
+    font-size: 11.5px;
+    line-height: 1.35;
+    color: var(--muted);
+}
+
+/* ---------- the route ---------- */
+
+.cv-route {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 24px 0 0;
+    position: relative;
+}
+
+.cv-route::before {
+    content: "";
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 6px;
+    height: 2px;
+    background: var(--rule);
+}
+
+.cv-stop {
+    flex: 1;
+    padding: 0 6px;
+    text-align: center;
+    position: relative;
+}
+
+.cv-dot {
+    display: block;
+    width: 13px;
+    height: 13px;
+    margin: 0 auto 16px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2px solid #cfd6d7;
+}
+
+.cv-stop--now .cv-dot {
+    background: var(--accent);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 4px rgba(0, 133, 161, 0.15);
+}
+
+.cv-city {
+    margin: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--ink);
+}
+
+.cv-years {
+    margin: 1px 0 12px;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    color: #9a9a9a;
+}
+
+.cv-stop-logo {
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 8px;
+    object-fit: contain;
+}
+
+.cv-who {
+    margin: 0;
+    font-size: 11.5px;
+    line-height: 1.45;
+    color: var(--muted);
+}
+
+/* ---------- what it added up to ---------- */
+
+.cv-impact {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+}
+
+.cv-stat {
+    background: #fff;
+    padding: 22px 20px;
+}
+
+.cv-stat-logo {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 14px;
+    object-fit: contain;
+}
+
+.cv-figure {
+    margin: 0;
+    font-size: 34px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--accent);
+}
+
+.cv-stat-label {
+    margin: 6px 0 8px;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--ink);
+}
+
+.cv-stat-note {
+    margin: 0;
+    font-size: 12.5px;
+    line-height: 1.55;
+    color: #858585;
+}
+
+/* ---------- studied / programmes ---------- */
+
+.cv-foot {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 32px;
+    margin-top: 54px;
+    padding-top: 26px;
+    border-top: 1px solid var(--rule);
+}
+
+.cv-foot-heading {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 16px;
+}
+
+.cv-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cv-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 16px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--muted);
+}
+
+.cv-list strong {
+    font-weight: 600;
+    color: var(--ink);
+}
+
+.cv-mini-logo {
+    flex: 0 0 34px;
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+    margin-top: 1px;
+}
+
+/* ---------- narrow screens: the route stacks ---------- */
+
+@media (max-width: 460px) {
+    .cv-impact {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 700px) {
+    .cv-route {
+        display: block;
+        padding-left: 24px;
+    }
+
+    .cv-route::before {
+        left: 6px;
+        right: auto;
+        top: 8px;
+        bottom: 14px;
+        width: 2px;
+        height: auto;
+    }
+
+    .cv-stop {
+        display: grid;
+        grid-template-columns: 44px 1fr;
+        grid-template-areas:
+            "logo city"
+            "logo years"
+            "logo who";
+        column-gap: 12px;
+        text-align: left;
+        padding: 0 0 24px;
+    }
+
+    .cv-dot {
+        position: absolute;
+        left: -24px;
+        top: 6px;
+        margin: 0;
+    }
+
+    .cv-stop-logo {
+        grid-area: logo;
+        width: 40px;
+        height: 40px;
+        margin: 2px 0 0;
+    }
+
+    .cv-city {
+        grid-area: city;
+        font-size: 16px;
+    }
+
+    .cv-years {
+        grid-area: years;
+        margin: 0 0 3px;
+    }
+
+    .cv-who {
+        grid-area: who;
+    }
+}
+
+/* ---------- print ---------- */
+
+@media print {
+    .cv-stat,
+    .cv-stop {
+        break-inside: avoid;
+    }
+}
