@@ -1,23 +1,7 @@
-Experienced Information Management Manager with a robust background in developing and optimizing data workflows, transforming and analyzing data using Python and R, and creating insightful visualizations with tools like Power BI and Tableau. Skilled in database management across SQL, PostgreSQL, and MongoDB, with proficiency in implementing ETL processes and ensuring data governance and security. Demonstrated success in enhancing operational efficiency and decision-making through innovative digital solutions in challenging humanitarian contexts. Adept at strategic collaboration and advanced data analytics to drive impactful outcomes.
+I am a senior data engineer. I build the systems humanitarian organisations run on: the pipelines that carry registration data, the warehouses behind distribution reporting, and the dashboards people actually make decisions from.
 
-## SKILLS
- -   **Programming Languages**: Python, R
-    
- -   **Databases**: SQL, PostgreSQL, MongoDB
-    
- -   **Data Tools**: Azure, Dataiku, Pandas, NumPy, Tableau, Microsoft Power BI, CDM & Azure data lake, Microsoft Excel/Access, Linux, ODK, Kobo, GIS
-    
- -   **Methodologies**: ETL, DWH, Data Governance, Data Protection, Data Visualization
- 
- 
-## EDUCATION
- -   **MSc. in Web of Science**
-Syrian Virtual University (SVU)
+Seven years of that, at the Norwegian Refugee Council, Mercy Corps, Oxfam, the IFRC and the Syrian Arab Red Crescent — cash programmes worth $56M and more, an emergency registration system that took in a million households in 72 hours, and cloud data platforms on Azure, PostgreSQL and MongoDB. Most of it written in Python.
 
- -   **B.Sc. in Management Information Systems**
-Arab International University (AIU)
+Before that I built robots, ran competitions and started companies in Damascus. Those are in the [blog](/).
 
-
-## Organization and Companies I work for
-![Companies I work for](/img/list-of-companies-logo-3.jpg){: .img-responsive }
-
+[tarepsh@gmail.com](mailto:tarepsh@gmail.com) &middot; [LinkedIn](https://www.linkedin.com/in/tchikhalshabab) &middot; [GitHub](https://github.com/TarepSH) &middot; Damascus, Syria

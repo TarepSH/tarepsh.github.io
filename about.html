@@ -10,7 +10,9 @@ multilingual: false
 
 {% capture about_en %}{% include about/en.md %}{% endcapture %}
 {{ about_en | markdownify }}
-   
+
+{% include career.html %}
+
 </div>
 
 {% if site.disqus_username %}

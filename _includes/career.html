@@ -1,0 +1,77 @@
+{%- comment -%}
+  About page: who I work with, the route, and what it added up to.
+  All content comes from _data/career.yml — edit that file, not this one.
+{%- endcomment -%}
+
+<section class="cv">
+
+  <h2 class="cv-heading">Worked with</h2>
+
+  <ul class="cv-wall">
+    {%- for org in site.data.career.orgs %}
+    <li class="cv-wall-item">
+      <img class="cv-wall-logo" src="{{ '/img/logos/' | append: org.logo | prepend: site.baseurl }}"
+           alt="{{ org.name }}" loading="lazy" width="200" height="200">
+      <span class="cv-wall-name">{{ org.name }}</span>
+    </li>
+    {%- endfor %}
+  </ul>
+
+  <h2 class="cv-heading">The route</h2>
+
+  <ol class="cv-route">
+    {%- for stop in site.data.career.route %}
+    <li class="cv-stop{% if stop.current %} cv-stop--now{% endif %}">
+      <span class="cv-dot" aria-hidden="true"></span>
+      <p class="cv-city">{{ stop.city }}</p>
+      <p class="cv-years">{{ stop.years }}</p>
+      <img class="cv-stop-logo" src="{{ '/img/logos/' | append: stop.logo | prepend: site.baseurl }}"
+           alt="" loading="lazy" width="200" height="200">
+      <p class="cv-who">{{ stop.who }}</p>
+    </li>
+    {%- endfor %}
+  </ol>
+
+  <h2 class="cv-heading">What it added up to</h2>
+
+  <ul class="cv-impact">
+    {%- for item in site.data.career.impact %}
+    <li class="cv-stat">
+      <img class="cv-stat-logo" src="{{ '/img/logos/' | append: item.logo | prepend: site.baseurl }}"
+           alt="" loading="lazy" width="200" height="200">
+      <p class="cv-figure">{{ item.figure }}</p>
+      <p class="cv-stat-label">{{ item.label }}</p>
+      <p class="cv-stat-note">{{ item.note }}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+
+  <div class="cv-foot">
+    <div class="cv-foot-col">
+      <h3 class="cv-foot-heading">Studied</h3>
+      <ul class="cv-list">
+        {%- for ed in site.data.career.education %}
+        <li>
+          <img class="cv-mini-logo" src="{{ '/img/logos/' | append: ed.logo | prepend: site.baseurl }}"
+               alt="" loading="lazy" width="200" height="200">
+          <span><strong>{{ ed.degree }}</strong><br>{{ ed.school }} &middot; {{ ed.date }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+
+    <div class="cv-foot-col">
+      <h3 class="cv-foot-heading">Programmes</h3>
+      <ul class="cv-list">
+        {%- for p in site.data.career.programmes %}
+        <li>
+          <img class="cv-mini-logo" src="{{ '/img/logos/' | append: p.logo | prepend: site.baseurl }}"
+               alt="" loading="lazy" width="200" height="200">
+          <span><strong><a href="{{ p.link | prepend: site.baseurl }}">{{ p.title }}</a></strong><br>{{ p.org }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+
+</section>
