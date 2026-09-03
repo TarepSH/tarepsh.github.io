@@ -24,8 +24,8 @@ Engineering Design Challenge (EDC) is a regional university-level engineering c
 > 
 > Due to the growing demand and focus on self-driving autonomous cars in the industry, challenging undergraduate students to create a prototype of a smart car would give them the basic tools needed for a bright future in the industry.
 > 
-> The challenge this year is to design and build small self-driving cars, that can compete in two games; **Driving Test** and **Shawarma Express**. To win the games, [rolex replicas swiss made grade 1](http://ergunlernakliyat.com.tr/images/joomgallery/thumbnails/gallery_2/trlar_3/rw182.html) cars are expected to use sensors and control concepts to be able to operate reliably without human interaction. The games are described in detail in the documents below.
+> The challenge this year is to design and build small self-driving cars, that can compete in two games; **Driving Test** and **Shawarma Express**. To win the games, cars are expected to use sensors and control concepts to be able to operate reliably without human interaction. The games are described in detail in the documents below.
 
 ![](/img/in-post/IMG-20170213-WA0004.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=L-EiDK2-l04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L-EiDK2-l04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

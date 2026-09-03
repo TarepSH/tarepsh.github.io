@@ -17,4 +17,4 @@ The analysis, results, and recommendations in this report represent the opinions
 
 you can check the report down below:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/gOE1WlMiHLvqP8" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/robotics-in-syria-report-20172018" title="Robotics in Syria Report – 2017/2018" target="_blank">Robotics in Syria Report – 2017/2018</a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>
+{% include pdf.html file="robotics-in-syria-report-2017-2018.pdf" title="Robotics in Syria — Report 2017/2018" pages="58" %}

@@ -50,7 +50,7 @@ Participating in the World Robot Olympiad India was an exhilarating journey that
 
 You can find more in this video and the full report down below:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=4sfCTQXxCPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4sfCTQXxCPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cs0KJMmORyGxS4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarepsh/toebi-makers-wro-india-2016-open-category-syria-reportupdate1" title="Toebi makers wro india 2016 - open category - syria - report-update1" target="_blank">Toebi makers wro india 2016 - open category - syria - report-update1</a> </strong> from <strong><a href="https://www.slideshare.net/tarepsh" target="_blank">Tarek Sheikh AL-Shbab</a></strong> </div>
+{% include pdf.html file="wro-india-2016-toebi-makers-report.pdf" title="Toebi Makers — WRO India 2016, Open Category, Syria — report" pages="85" %}

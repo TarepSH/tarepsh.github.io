@@ -13,11 +13,11 @@ World Arduino Day has been observed in more than 100 countries around the world,
   
 The World Arduino Day was organized at ASPU (Al-Sham Private University) theater with the participation of the Mechatronics Club at the Syrian Computer Society, the Robotics Club at the Faculty of Informatics at the University of Damascus and the Voluntary Ambition Team from the Faculty of Computer and Automation Engineering at Damascus University.
 
-this event was co-organize with [Alia Hamwi](https://www.linkedin.com/in/alia-hamwi/) and [Louay Abo Al-Zahb](https://www.linkedin.com/in/louayaz/) and sponsored by [Al-Sham Private University](http://www.aspu.edu.sy/en/home) and [Syrian Computer Society](http://www.scs.org.sy/).
+this event was co-organize with [Alia Hamwi](https://www.linkedin.com/in/alia-hamwi/) and [Louay Abo Al-Zahb](https://www.linkedin.com/in/louayaz/) and sponsored by [Al-Sham Private University](https://aspu.edu.sy/) and [Syrian Computer Society](http://www.scs.org.sy/).
 
 ![](/img/in-post/Syria-Arduino-Day-2019-AGENDA-page-001-1.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=EvZL8lNufP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EvZL8lNufP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu](http://www.aspu.edu.sy/en/news/31-yom-alardoyno-alaaalmy-fy-aspu)
+The university's write-up of the day (aspu.edu.sy) is no longer online.

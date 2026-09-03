@@ -17,10 +17,7 @@ On February 18, 2014, the international community will gain its first introscopi
 
 The 54-hour event will measure public interest in Startup technologies within Damascus, and will reward a winner with access to venture funding and publicity. The three-day event, will be preceded by a “bootcamp“ for participants, and will include a cast of international entrepreneurs are scheduled to attend online..... for more you can read one of below article:
 
-[https://www.huffpost.com/entry/startup-weekend-damascus\_b\_4782634](https://www.huffpost.com/entry/startup-weekend-damascus\_b\_4782634)
-
-[http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis](http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis)
-
-[https://www.arabnet.me/english/editorials/events/damascus-to-host-its-first-startup-weekend-in-february](https://www.arabnet.me/english/editorials/events/damascus-to-host-its-first-startup-weekend-in-february)
-
-[http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone](http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone)
+- [HuffPost — Startup Weekend Damascus](https://www.huffpost.com/entry/startup-weekend-damascus_b_4782634)
+- [Wamda — First Startup Weekend in Damascus: an active environment despite the crisis](http://www.wamda.com/2014/02/first-startup-weekend-in-damascus-an-active-environment-despite-the-crisis)
+- [Techstars Communities — Startup Weekend Damascus: entrepreneurship in a war zone](http://communities.techstars.com/syria/damascus/blog/content/startup-weekend/startup-weekend-damascus-entrepreneurship-war-zone)
+- ArabNet — “Damascus to host its first Startup Weekend in February” (the article is no longer online)

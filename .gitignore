@@ -6,8 +6,11 @@ node_modules
 .vscode
 *.log
 *.lock
+!Gemfile.lock
 *.sh
 .DS_Store
 .jekyll-cache
 */.DS_Store
 */*/.DS_Store
+*:Zone.Identifier
+Thumbs.db

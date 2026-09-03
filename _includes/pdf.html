@@ -1,0 +1,44 @@
+{%- comment -%}
+  Self-hosted PDF embed — replaces the old SlideShare iframes.
+
+  Usage in a post:
+    {% include pdf.html file="spike-pitch-deck.pdf" title="Spike — pitch deck" %}
+
+  Optional parameters:
+    cover="my-cover.jpg"   image shown on phones instead of the viewer
+                           (defaults to <file>-cover.jpg in the same folder)
+    height="720"           viewer height in px on desktop (default 640)
+    pages="44"             shown in the caption, e.g. "44 pages"
+
+  Files live in /assets/pdf/ and are served straight from GitHub Pages.
+{%- endcomment -%}
+{%- assign _base = include.file | split: ".pdf" | first -%}
+{%- assign _pdf = include.file | prepend: "/assets/pdf/" | prepend: site.baseurl -%}
+{%- if include.cover -%}
+  {%- assign _cover = include.cover | prepend: "/assets/pdf/" | prepend: site.baseurl -%}
+{%- else -%}
+  {%- assign _cover = _base | append: "-cover.jpg" | prepend: "/assets/pdf/" | prepend: site.baseurl -%}
+{%- endif -%}
+{%- assign _height = include.height | default: 640 -%}
+{%- assign _title = include.title | default: "Document" -%}
+
+<figure class="pdf-embed">
+  <object class="pdf-embed__frame" data="{{ _pdf }}#view=FitH" type="application/pdf"
+          height="{{ _height }}" aria-label="{{ _title | escape }}">
+    <iframe class="pdf-embed__iframe" src="{{ _pdf }}#view=FitH" height="{{ _height }}"
+            title="{{ _title | escape }}" loading="lazy"></iframe>
+  </object>
+
+  <a class="pdf-embed__cover" href="{{ _pdf }}" target="_blank" rel="noopener">
+    <img src="{{ _cover }}" alt="{{ _title | escape }} — first page" loading="lazy">
+    <span class="pdf-embed__cover-hint">Tap to open the PDF</span>
+  </a>
+
+  <figcaption class="pdf-embed__caption">
+    <span class="pdf-embed__title">{{ _title }}{% if include.pages %} · {{ include.pages }} pages{% endif %}</span>
+    <span class="pdf-embed__actions">
+      <a href="{{ _pdf }}" target="_blank" rel="noopener">Open in new tab</a>
+      <a href="{{ _pdf }}" download>Download PDF</a>
+    </span>
+  </figcaption>
+</figure>
