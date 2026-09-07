@@ -9,12 +9,12 @@ tags:
   - Robotics
   - Tech
 ---
-This report highlights the experiences and needs of Syrian Robotics community in the country and shows other events, competitions, and activities of other countries around the world in goal to support robotic culture in this country. This report shows how we can implement or simulate this solution inside the Syrian community. This report shows a very close view of the author. 
+This report sets out what the robotics community in Syria has done and what it needs. It also looks at events, competitions and activities in other countries, and asks which of them could work here.
 
-The study aims to present policy and programme recommendations for use by governments, international NGOs, donors and other educational institutions, with the ultimate goal of helping youths get access to these kinds of sciences and activities.
+The aim is to give governments, international NGOs, donors and educational institutions something concrete to act on, so that more young people can reach this kind of science and activity.
 
-The analysis, results, and recommendations in this report represent the opinions of the author and are not necessarily representative of the position of the reviewers.
+The analysis, results and recommendations are my own opinions, and do not necessarily represent the position of the reviewers.
 
-you can check the report down below:
+You can read the report below:
 
 {% include pdf.html file="robotics-in-syria-report-2017-2018.pdf" title="Robotics in Syria — Report 2017/2018" pages="58" %}

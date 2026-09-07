@@ -9,16 +9,15 @@ tags:
   - Data
   - Tech
 ---
+A registration system for cash assistance at the Syrian Arab Red Crescent, built in two parts.
 
-Custom ODK Collect Application Development: Designed and developed a customized ODK Collect application that facilitates reading beneficiaries' personal IDs by scanning barcodes through a volunteer's mobile camera in the field. Implemented offline synchronization to ensure seamless data collection in areas with limited connectivity.
+**The field app.** A customised version of ODK Collect that reads a person's ID by scanning the barcode with the volunteer's phone camera. It works offline and syncs when a connection is available, which matters in areas with poor coverage.
 
-ETL Pipeline Development: Engineered an ETL (Extract, Transform, Load) pipeline using Dataiku and Python to efficiently process, clean, analyze, and store data. This pipeline ensures smooth data integration and availability via APIs for integration into other programs.
+**The pipeline.** An ETL pipeline in Dataiku and Python that cleans, processes, analyses and stores the data, and makes it available to other programmes through an API.
 
-As of the last update in 2023, the system manages data for 24,779 registered beneficiaries. Approximately 34.5% (8,554 beneficiaries) utilized the ID barcode scanner feature via camera, including 4,811 beneficiaries with Syrian IDs and 696 records with family statements, encompassing 5,835 beneficiaries.
+As of the last update in 2023 the system held 24,779 registered people. About 34.5% of them (8,554) were registered using the barcode scanner: 4,811 with Syrian IDs and 696 family statements covering 5,835 people.
 
-Links and some photo of the system: 
-
-[Syrian-Arab-Red-Crescent-SARC/collect:](https://github.com/Syrian-Arab-Red-Crescent-SARC/collect)
+The code is on GitHub: [Syrian-Arab-Red-Crescent-SARC/collect](https://github.com/Syrian-Arab-Red-Crescent-SARC/collect).
 
 ![screenshot of odk app](/img/in-post/odk-screenshot.gif)
 
