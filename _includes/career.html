@@ -10,8 +10,12 @@
   <ul class="cv-wall">
     {%- for org in site.data.career.orgs %}
     <li class="cv-wall-item">
+      {%- if org.logo %}
       <img class="cv-wall-logo" src="{{ '/img/logos/' | append: org.logo | prepend: site.baseurl }}"
            alt="{{ org.name }}" loading="lazy" width="200" height="200">
+      {%- else %}
+      <span class="cv-wall-logo cv-wall-mono" aria-hidden="true">{{ org.mono }}</span>
+      {%- endif %}
       <span class="cv-wall-name">{{ org.name }}</span>
     </li>
     {%- endfor %}
@@ -42,6 +46,25 @@
       <p class="cv-figure">{{ item.figure }}</p>
       <p class="cv-stat-label">{{ item.label }}</p>
       <p class="cv-stat-note">{{ item.note }}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+
+  <h2 class="cv-heading">Founded &amp; organised</h2>
+
+  <ul class="cv-wall cv-wall--wide">
+    {%- for v in site.data.career.ventures %}
+    <li class="cv-wall-item">
+      <a class="cv-venture" href="{{ v.link | prepend: site.baseurl }}">
+        {%- if v.logo %}
+        <img class="cv-wall-logo" src="{{ '/img/logos/' | append: v.logo | prepend: site.baseurl }}"
+             alt="{{ v.name }}" loading="lazy" width="200" height="200">
+        {%- else %}
+        <span class="cv-wall-logo cv-wall-mono" aria-hidden="true">{{ v.mono }}</span>
+        {%- endif %}
+        <span class="cv-wall-name">{{ v.name }}</span>
+        <span class="cv-wall-note">{{ v.note }}</span>
+      </a>
     </li>
     {%- endfor %}
   </ul>

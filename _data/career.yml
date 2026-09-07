@@ -13,8 +13,35 @@ orgs:
     logo: "ifrc.png"
   - name: "Syrian Arab Red Crescent"
     logo: "sarc.png"
+  - name: "Tabo Akdar"
+    mono: "TA"
+  - name: "System 7"
+    mono: "S7"
 
-# 2. The route — one stop per city, oldest first
+# 2. Founded and organised — the Damascus years
+ventures:
+  - name: "Bit Code"
+    logo: "bitcode.png"
+    note: "Founded"
+    link: "/2020/06/22/bitcode/"
+  - name: "Spike"
+    logo: "spike.png"
+    note: "Founded"
+    link: "/2023/06/21/spike/"
+  - name: "World Robot Olympiad"
+    logo: "wro.png"
+    note: "Co-organised Syria"
+    link: "/2020/06/22/wro-syria-2018/"
+  - name: "Syrian Computer Society"
+    logo: "scs.png"
+    note: "Robotics & Arduino Day"
+    link: "/2020/06/22/syria-arduino-day-2019/"
+  - name: "ICT Incubator"
+    mono: "ICTI"
+    note: "Bootcamps, Damascus & Homs"
+    link: "/2020/06/22/ict-incubator-bootcamp-damascus-homs-city/"
+
+# 3. The route — one stop per city, oldest first
 route:
   - city: "Damascus"
     years: "2018 – 2023"
@@ -38,7 +65,7 @@ route:
     logo: "nrc.png"
     current: true
 
-# 3. What it added up to — the numbers
+# 4. What it added up to — the numbers
 impact:
   - figure: "3M"
     label: "people registered in 72 hours"
@@ -68,6 +95,10 @@ education:
     date: "2020"
 
 programmes:
+  - title: "Entrepreneurship Bootcamp, Phase 2"
+    org: "Jusoor"
+    logo: "jusoor.svg"
+    link: "/2020/06/22/bitcode/"
   - title: "AI for Accessibility Hackathon"
     org: "American University of Beirut"
     logo: "aub.png"
