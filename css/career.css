@@ -25,7 +25,7 @@
 .cv-wall {
     display: flex;
     flex-wrap: wrap;
-    gap: 26px 22px;
+    gap: 24px 18px;
     align-items: flex-end;
     list-style: none;
     margin: 0;
@@ -94,6 +94,14 @@
 
 .cv-wall-logo {
     transition: transform 0.15s ease;
+}
+
+.cv-wall-years {
+    display: block;
+    margin-top: 1px;
+    font-size: 11px;
+    color: #b0b0b0;
+    font-variant-numeric: tabular-nums;
 }
 
 .cv-wall-note {

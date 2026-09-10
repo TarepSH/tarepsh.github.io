@@ -63,6 +63,7 @@
         <span class="cv-wall-logo cv-wall-mono" aria-hidden="true">{{ v.mono }}</span>
         {%- endif %}
         <span class="cv-wall-name">{{ v.name }}</span>
+        {%- if v.years %}<span class="cv-wall-years">{{ v.years }}</span>{% endif %}
         <span class="cv-wall-note">{{ v.note }}</span>
       </a>
     </li>
